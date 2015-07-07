@@ -1,0 +1,31 @@
+'userId','firstName','lastName','email','headline','location','pictureURL','profileURL','skillsList','goalsList','lat','lon','freeFor','walkingSpeed','minMeetingLength','nPastMeetings','avgRating','acceptRate','stressFactor'
+'A1','John','Doe','jdoe145@gmail.com','Product Management Guru','CA, US','','','Product Management;Mobile Applications;B2B','hiring;networking',37.368501,-121.933572,'','',3,4.2,0.5,1
+'A2','Vijay','Kaushik','vijay.kaushik@yume.com','VP of Engineering at YuMe, Inc','CA, US','','','Leadership;Hadoop;Java;Object Oriented Programming;Spark','networking',37.368401,-121.936672,'','',2,4.8,1.0,1
+'A3','Mike','Downey','mikedoqwney5@yahoo.com','Product','IL, US','','','','',37.368501,-121.933572,'','',3,3.2,0.5,1
+'A4','Gurminder','Singh','gsingh@gmail.com','CEO at OpunUp, Inc','CA, US','','','Leadership;Entrepreneurship;Computer Science','networking',37.368501,-121.933572,45,'','',1,5.0,1.0,1
+'A5','Gregory','LeGrand','greg1978@newthings.com','Entrepreneur','Fremont, CA, US','','','Mobile Applications;Start-ups','',37.368501,-121.933572,45,'','',3,4.2,0.5,1
+'A6','Jane','Smith','jane.smith5@aribnb.com','Senior Engineer','San Francisco, CA, US','','','Object-Oriented Programming','',37.368501,-121.933572,45,'','',4,4.1,0.8,1
+'A7','Dev','Ghosh','dev.ghosh@ayasdi.com','.','US','','','Computer Vision;Distributed Systems','jobHunting;networking',37.368501,-121.933572,45,'','',3,2.8,0.5,1
+'A8','Scott','Locklin','scott-guesswho@gmail.com','Build something new','CA, US','','','','',37.368501,-121.933572,45,'','',3,4.2,0.5,1
+'A9','Miriam','Forey','miriam@newcompany.net','Head of Talent','CA, US','','','Talent Acquisition','networking;hiring',37.368501,-121.933572,45,'','',32,5.0,0.95,1
+'A10','Jennifer','Garvale','jengarval@mystartup.com','Software Development','TX, US','','','Software Development;Java;Web Design','',37.368501,-121.933572,45,'','',3,4.2,0.5,1
+'A11','Bobby','Lee','lee876@yahoo.com','Product Manager','CA, US','','','Product Engineering;Sales','networking',37.368501,-121.933572,45,'','',3,4.0,0.5,1
+'A12','Jinwei','Fu','jinwei.fu@databricks.com','Head of Business Development','OR, US','','','Entrepreneurship;Sales','hiring;networking',37.368501,-121.933572,45,'','',3,4.2,0.5,1
+'A13','Christopher','Landale','chrisl@uber.com','Director of Data','CA,US','','','Data Science;Machine Learning;Optimization;Mathematics','',37.368501,-121.933572,45,'','',3,4.2,0.5,1
+'A14','Pratibha','Pandit','pprandhit@miomy.com','Senior Product Manager','CA, US','','','Product Engineering','hire;networking',37.368501,-121.933572,45,'','',3,4.2,0.5,1
+'A15','Dylan','Wirly','znewguy@gmail.com','Looking for new opportunities','CA, US','','','Engineering;Systems','hiring;networking',37.368501,-121.933572,45,'','',3,4.2,0.5,1
+'A16','Robert','Klein','rob.klein@yahoo.com','Vice President','CA, US','','','','hiring',37.368501,-121.933572,45,'','',3,4.2,0.5,1
+'A17','Milly','Treck','millyt86@gmail.com','Data & Product','NY, US','','','Data Engineering;Data Products;Software Engineering','',37.368501,-121.933572,45,'','',3,4.2,0.5,1
+'A18','Shirley','Temple','shirley.temple@pastemail.com','Actress','CA, US','','Dancing;Tap-Dancing;Acting','','hiring',37.368501,-121.933572,45,'','',3,4.2,0.5,1
+'A19','Famous','Guy','famousguy@iamfamous.com','Your dream is to meet with me...','CA, US','','','','',37.368501,-121.933572,45,'','',3,4.2,0.5,1
+'A20','Xavier','Douglass','xav_doug@yahoo.fr','Financial Analyst','CA, US','','','Finance;Data Analysis;Trading','jobHunting',37.368501,-121.933572,45,'','',3,4.2,0.5,1
+'A21','Krishna','Sankar','ksankar@gmail.com','Chief Data Scientist','CA, US','','','Data Science;Machine Learning','networking',37.368501,-121.933572,45,'','',3,4.2,0.5,1
+'A22','Rubin','Singh','rubin.singh@gmail.com','Engineer','CA, US','','','UX Design;Data Engineering','networking;jobHunting',37.368501,-121.933572,45,'','',3,4.2,0.5,1
+'A23','Angel','Smith','angel@tophairusa.com','Hairdresser & owner @ Top Hair USA','CA, US','','','Hair-Dressing','networking',37.368501,-121.933572,45,'','',3,3.2,0.5,1
+'A24','Brad','Pitt','brad.pitt@justajoke.com','Just a guy','CA, US','','','Being Beautiful','',37.368501,-121.933572,45,'','',3,4.2,0.5,1
+'A25','Kate','Graham','kgraham@someemail.com','Let\'s meet!','CA, US','','','Human Resources;Payroll;Talent','networking',37.368501,-121.933572,45,'','',3,4.2,0.5,1
+'A26','Jilian','Clark','jiliforever@gmail.com','Sales','CA, US','','','Sales','',37.368501,-121.933572,45,'','',3,4.2,0.5,1
+'A27','Kelly','O'\Maley','kelly.om@gmail.com','Analyst','CA, US','','','Data Analysis','networking',37.368501,-121.933572,45,'','',3,4.2,0.5,1
+'A28','Yanyi','He','yanyi.he@ibm.com','Senior Scientist','CA, US','','','Research;Mathematics','jobHunting',37.368501,-121.933572,45,'','',3,4.3,0.5,1
+'A29','John','Doe','johntheforteenth@gmail.com','','CA, US','','','Fashion Design','',37.368501,-121.933572,45,'','',3,3.7,0.5,1
+'A30','Jason','Hive','jason.hive@gmail.com','VP of Engineering','CA, US','','','Software Engineering;C++;Object-Oriented Programming;Fortran','hiring',37.368501,-121.933572,45,'','',3,4.2,0.5,1

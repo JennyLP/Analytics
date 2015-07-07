@@ -1,0 +1,7 @@
+'userId','firstName','lastName','email','headline','location','pictureURL','profileURL','skillsList','goalsList','lat','lon','freeFor','walkingSpeed','minMeetingLength','nPastMeetings','avgRating','acceptRate','stressFactor'
+'A1','John','Doe','jdoe145@gmail.com','Product Management Guru','CA, US','','','Product Management;Mobile Applications;B2B','hiring;networking',37.368501,-121.933572,'','',3,4.2,0.5,1
+'A2','Vijay','Kaushik','vijay.kaushik@yume.com','VP of Engineering at YuMe, Inc','CA, US','','','Leadership;Hadoop;Java;Object Oriented Programming;Spark','networking',37.368401,-121.936672,'','',2,4.8,1.0,1
+'A3','Mike','Downey','mikedoqwney5@yahoo.com','Product','IL, US','','','','',37.368501,-121.933572,'','',3,3.2,0.5,1
+'A4','Gurminder','Singh','gsingh@gmail.com','CEO at OpunUp, Inc','CA, US','','','Leadership;Entrepreneurship;Computer Science','networking',37.368501,-121.933572,45,'','',1,5.0,1.0,1
+'A5','Gregory','LeGrand','greg1978@newthings.com','Entrepreneur','Fremont, CA, US','','','Mobile Applications;Start-ups','',37.368501,-121.933572,45,'','',3,4.2,0.5,1
+'A6','Jane','Smith','jane.smith5@aribnb.com','Senior Engineer','San Francisco, CA, US','','','Object-Oriented Programming','',37.368501,-121.933572,45,'','',4,4.1,0.8,1
